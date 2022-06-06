@@ -1,5 +1,7 @@
 # CoffeeVendingMachine
-커피자판기
+**커피자판기 자바로 구현하기**
+
+
 ![image](https://user-images.githubusercontent.com/86403488/172171041-b0a934e4-f778-4760-a522-197dcca2eed7.png)
 ![image](https://user-images.githubusercontent.com/86403488/172171101-f6c3da2a-5889-4ade-9a33-96221b6404ca.png)
 ![image](https://user-images.githubusercontent.com/86403488/172171145-9f71cf12-143e-4c59-9762-9fa4e2a754c5.png)
